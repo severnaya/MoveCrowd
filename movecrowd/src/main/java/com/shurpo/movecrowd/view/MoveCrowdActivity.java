@@ -1,4 +1,4 @@
-package com.shurpo.movecrowd;
+package com.shurpo.movecrowd.view;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
